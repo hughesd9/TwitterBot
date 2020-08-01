@@ -1,5 +1,5 @@
 # TwitterBot
-A twitter bot to do sentiment analysis.
+A twitter bot that takes in user input to search for tweets with a certain keyword and like the tweet if it is above a given polarity after doing some sentiment analysis.
 
 Learning outcomes:
    1. Learned how to create a twiiter bot using Twitter's API
