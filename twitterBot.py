@@ -3,7 +3,6 @@ import textblob
 from textblob import TextBlob
 
 #Set up keys
-#Add your keys in the empty quotation makrs
 consumer_key = ''
 consumer_secret = ''
 
